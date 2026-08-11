@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vipul Pandey 👋</h1>
+<h1 align="center">Hi, I'm Vipul Pandey </h1>
 
 <p align="center">
   <b>Backend & Distributed Systems Engineer</b> · GSoC '26 @ Learning Unlimited · IIITM Gwalior '28
@@ -15,11 +15,11 @@
 
 I build backend systems that stay correct under load — distributed query engines, fault-tolerant schedulers, and the regression suites that keep them honest. Currently a **Google Summer of Code 2026 contributor at Learning Unlimited**, working on Django test infrastructure for a platform used by educational programs worldwide.
 
-- 🔭 Building **[QueryForge](https://github.com/vipulpandey21/QueryForge)** — a distributed parallel SQL engine (gRPC, MapReduce-style aggregation, 1.7× speedup on 2M+ rows)
-- 🌱 Deep-diving into **distributed systems, observability, and query optimization**
-- 🤝 Open source contributor at **Learning Unlimited**, **Open Health Care Network**, and **CNCF (Krkn Chaos)**
-- 🏆 **LeetCode Knight** (1881, top 5.44%) · **Codeforces Specialist** (1517) · 500+ DSA problems
-- 📫 Reach me at **vipulpandey7917@gmail.com**
+-  Building **[QueryForge](https://github.com/vipulpandey21/QueryForge)** — a distributed parallel SQL engine (gRPC, MapReduce-style aggregation, 1.7× speedup on 2M+ rows)
+-  Deep-diving into **distributed systems, observability, and query optimization**
+-  Open source contributor at **Learning Unlimited**, **Open Health Care Network**, and **CNCF (Krkn Chaos)**
+-  **LeetCode Knight** (1881, top 5.44%) · **Codeforces Specialist** (1517) · 500+ DSA problems
+-  Reach me at **vipulpandey7917@gmail.com**
 
 ---
 
